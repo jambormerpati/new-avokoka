@@ -1,0 +1,9 @@
+name = "avokoka-admin-v27"
+main = "src/worker.js"
+compatibility_date = "2026-10-13"
+
+# Tambahkan binding D1 produksi Bapak:
+# [[d1_databases]]
+# binding = "DB"
+# database_name = "avokoka-db"
+# database_id = "b1a04be5-ee67-4579-b884-6556a8558676"
